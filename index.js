@@ -1,10 +1,9 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
   <meta charset="UTF-8">
-  <title>Deku’s Profile</title>
+  <title>Jerome’s Profile</title>
   <meta name="viewport"
     content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
@@ -16,17 +15,17 @@
   <div class="wrapper">
     <div class="profile-card js-profile-card">
       <div class="profile-card__img">
-        <img src="https://graph.facebook.com/100055943906136/picture?height=720&width=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662" alt="profile card">
+        <img src="https://graph.facebook.com/100092668630167/picture?height=720&width=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662" alt="profile card">
       </div>
       <div class="profile-card__cnt js-profile-cnt">
-        <div class="profile-card__name">Deku</div>
+        <div class="profile-card__name">Jerome</div>
         <div class="profile-card-loc">
           <span class="profile-card-loc__icon">
             <svg class="icon">
               <use xlink:href="#icon-location"></use>
             </svg>
           </span>
-          <span class="profile-card-loc__txt"> Philippines, Cavite</span>
+          <span class="profile-card-loc__txt"> Philippines, Cagayan</span>
         </div>
         <div class="profile-card-inf">
           <div class="profile-card-inf__item">
@@ -35,32 +34,32 @@
           </div>
           <div class="profile-card-inf__item">
             <div class="profile-card-inf__title">Hobby</div>
-            <div class="profile-card-inf__txt">Guitar, Coding, Playing</div>
+            <div class="profile-card-inf__txt"Coding, Playing</div>
           </div>
         </div>
         <div class="profile-card-social">
-          <a href="https://facebook.com/joshg101" class="profile-card-social__item facebook" target="_blank">
+          <a href="https://www.facebook.com/jeromethepro" class="profile-card-social__item facebook" target="_blank">
             <span class="icon-font">
               <svg class="icon">
                 <use xlink:href="#icon-facebook"></use>
               </svg>
             </span>
           </a>
-          <a href="https://www.instagram.com/joshhhg10" class="profile-card-social__item instagram" target="_blank">
+          <a href="https://sim-api-ctqz.onrender.com/" class="profile-card-social__item instagram" target="_blank">
             <span class="icon-font">
               <svg class="icon">
                 <use xlink:href="#icon-instagram"></use>
               </svg>
             </span>
           </a>
-          <a href="https://github.com/ysauhsoj" class="profile-card-social__item github" target="_blank">
+          <a href="https://github.com/wedfhujkkmhhgg233" class="profile-card-social__item github" target="_blank">
             <span class="icon-font">
               <svg class="icon">
                 <use xlink:href="#icon-github"></use>
               </svg>
             </span>
           </a>
-          <a href="https://deku-rest-api-ywad.onrender.com" class="profile-card-social__item link" target="_blank">
+          <a href="https://sim-api-ctqz.onrender.com/" class="profile-card-social__item link" target="_blank">
             <span class="icon-font">
               <svg class="icon">
                 <use xlink:href="#icon-link"></use>
@@ -69,7 +68,7 @@
           </a>
         </div>
         <div class="profile-card-ctr">
-          <a href="https://facebook.com/joshg101">
+          <a href="https://www.facebook.com/jeromethepro">
           <button
             class="profile-card__button button--blue js-message-btn">Message</button>
           </a>
